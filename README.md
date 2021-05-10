@@ -4,6 +4,8 @@ Description:
 A simple calculator that can do basic single digit functions (add, subtract, multiply, and divide). It can also calculate percentages,
 clear functions and undo. 
 
+Note* This program was created with Eclipse in java
+
 Screenshots:
 https://user-images.githubusercontent.com/83840115/117699845-e6c1dd00-b18a-11eb-86d0-92f49e423c63.png
 
