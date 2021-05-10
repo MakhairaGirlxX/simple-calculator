@@ -7,5 +7,7 @@ clear functions and undo.
 Screenshots:
 https://user-images.githubusercontent.com/83840115/117699845-e6c1dd00-b18a-11eb-86d0-92f49e423c63.png
 
+https://user-images.githubusercontent.com/83840115/117699835-e4f81980-b18a-11eb-8568-5a42e16a22cb.png
+
 Activity Diagram:
 https://user-images.githubusercontent.com/83840115/117699770-d3af0d00-b18a-11eb-83bc-ce8c611a038b.jpg
